@@ -1,4 +1,4 @@
-# Pantheons of B'raan
+# Pantheon of B'raan
 
 ### Neutral Gods
 
@@ -14,7 +14,7 @@ Tempus - God of War
 
 Sl'atar - God of Knowledge
 
-Eaos - God of Shelter
+Eaos - God of Shelter and Protection
 
 Marok - God of Courage and Self-Sacrifice
 
